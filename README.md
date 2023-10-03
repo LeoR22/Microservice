@@ -33,4 +33,4 @@ Esto compilará el código fuente, gestionará las dependencias y generará un a
 Ejecución
 Para ejecutar el microservicio, utilice el siguiente comando:
 
-El microservicio estará disponible en http://localhost:8080/api/products para metodos POST y GET.
+El microservicio estará disponible en http://localhost:8080/api/products para métodos POST y GET.
